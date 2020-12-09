@@ -25,4 +25,4 @@ eureka:
     lease-expiration-duration-in-seconds: 5
    
 test:
-  name: wenjie 
+  name: wenjiejiang 
